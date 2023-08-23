@@ -1,0 +1,11 @@
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\Project-2-34229175.exe
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\Project-2-34229175.dll
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\Project-2-34229175.deps.json
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\Project-2-34229175.runtimeconfig.json
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\Project-2-34229175.pdb
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Varsity\GitHub Repository\CMPG-323-Project-2-34229175\Project-2-34229175\Project-2-34229175\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
