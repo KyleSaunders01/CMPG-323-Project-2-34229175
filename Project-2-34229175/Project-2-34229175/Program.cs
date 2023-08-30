@@ -46,7 +46,7 @@ else
     app.UseSwagger();
     app.UseSwaggerUI(options =>
     {
-        options.SwaggerEndpoint("/swagger/v1/swagger.json", "WebApplication16");
+        options.SwaggerEndpoint("/swagger/v1/swagger.json", "Project-2-34229175");
         options.RoutePrefix = string.Empty;
     });
 }
