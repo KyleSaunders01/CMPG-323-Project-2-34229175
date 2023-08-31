@@ -7,7 +7,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1jX/U20AU0ecULJihGyFewAAAAACAAAAAAAQZgAAAAEAACAAAACxyETmfBAkh+sQ88QiHVNe3qTG2H6HHle5d33HSVTjogAAAAAOgAAAAAIAACAAAABAM9z/6EM5B5liYhc4mduAGvisvp+rHudMvUtvOaYLHIAAAAC3QELd3hDJqUFC5ueQMNrvpr4LF7vGKBMjDBet0lr/1yIOLrvl2zC7OVgP04Rfy3XLyucFJKAQ7mayPI8/S5esumQNtxGelh1mhBmicQCdIiX+dKLsYMmMmJRQk0gRbEOfLBKDwFyzg81z5+93eXQY8UVKzQde6n85i8jRPOQMwUAAAAA2cZ/jQMxtkGLlUnt/vTyE6S15RhVTWHMdwf7wpBfj2VE8+HvMclVNagTmFSuhtU/HEQ4rnc3z8f9IdVkA9xGT</EncryptedPassword>
-    <History>True|2023-08-30T15:09:04.6513058Z;True|2023-08-23T14:40:11.4718893+02:00;</History>
+    <History>True|2023-08-30T17:20:26.4532244Z;True|2023-08-30T19:11:27.9988342+02:00;True|2023-08-30T18:58:25.1060811+02:00;False|2023-08-30T18:55:22.2939902+02:00;False|2023-08-30T18:53:51.2851377+02:00;False|2023-08-30T18:53:27.4946015+02:00;False|2023-08-30T18:52:01.7338074+02:00;False|2023-08-30T18:50:58.7461101+02:00;False|2023-08-30T18:48:22.6261223+02:00;False|2023-08-30T18:47:10.6508969+02:00;False|2023-08-30T18:45:15.1025337+02:00;False|2023-08-30T18:40:44.4525835+02:00;False|2023-08-30T18:40:02.3551761+02:00;True|2023-08-30T18:29:09.7253987+02:00;True|2023-08-30T17:09:04.6513058+02:00;True|2023-08-23T14:40:11.4718893+02:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Default">
+      <Value>Data Source=zaazrcmpg323p2sql34229175.database.windows.net,1433%3bInitial Catalog=P2-dev%3bUser ID=serviceadmin%3bPassword="Kyle S311001"</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
 </Project>

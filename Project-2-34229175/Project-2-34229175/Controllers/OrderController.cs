@@ -48,7 +48,7 @@ namespace Project_2_34229175.Controllers
             }
         }
 
-        [HttpGet("by-customer/(customerId)")]
+        [HttpGet("by-customer/{customerId}")]
         public IActionResult GetOrdersByCustomerId(short customerId)
         {
             try
