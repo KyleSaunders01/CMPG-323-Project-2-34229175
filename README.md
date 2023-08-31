@@ -1,4 +1,8 @@
 # CMPG 323 Project 2 34229175
+Project 2 Brief:
+
+In Project 2 I host a ASP.NET Core API on Azure along with a SQL Server database that is also hosted on Azure, all this is in a resource group on Azure to manage it effiecently. I added repositories/services as well and put my private method that check's if an entity exists in there too as that is where it's appropriate.
+
 This is my Project 2 API - https://project-2-34229175.azurewebsites.net/
 I will be giving a short guide on how to use and test the api with swagger. Note that the response will have $ values in that is from using json serialization so that id's don't get confused as we're not using GUID's but simple int values
 These are the formats you should use when testing the API
